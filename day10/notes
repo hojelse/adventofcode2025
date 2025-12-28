@@ -1,0 +1,15 @@
+3x+5y+4z+7w
+= a(w)
++ b(y+w)
++ c(z)
++ d(z+w)
++ e(x+z)
++ f(x+y)
+minimize a+b+c+d+e+f
+
+3=e+f
+5=b+f
+4=c+d+e
+7=a+b+d
+min a+b+c+d+e+f
+
